@@ -1,7 +1,7 @@
 HackTX
 ======
 
-Repository for UT Austin Astronomy participation in [HackTX](www.hacktx.com)
+Repository for UT Austin Astronomy participation in [HackTX](http://hacktx.com/)
 
 It's a 24 hr hackathon from October 18-19, 2014.
 
