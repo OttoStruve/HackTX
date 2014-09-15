@@ -11,11 +11,12 @@ Participants
 ------------
 + gully
 + astrosmith
-+ ...
++ hummel
 
 
 Hack Ideas
 -------------
 + HETDEX side science
 + Hacking the astroML book figures
++ Bokeh!
 
